@@ -1,3 +1,4 @@
 [submodule "external/ninjatracing"]
 	path = external/ninjatracing
 	url = https://github.com/nico/ninjatracing.git
+	ignore = dirty
